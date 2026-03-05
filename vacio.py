@@ -1,0 +1,1 @@
+print("Nombre: ian cota | Carrera: Ing. Automotriz | Hobby:: jugar futbol")
